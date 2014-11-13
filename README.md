@@ -1,6 +1,3 @@
-TopKSeqPattMiner
-================
-
 A very efficient top-k sequential pattern miner.
 
 # Supported Platforms
