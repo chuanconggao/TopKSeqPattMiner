@@ -1,4 +1,4 @@
-DOTNET_VERSION = 3.5
+# DOTNET_VERSION = 3.5
 ifeq ($(DOTNET_VERSION), 3.5)
 	COMPILER = gmcs -langversion:3 -define:DOTNET_35
 
